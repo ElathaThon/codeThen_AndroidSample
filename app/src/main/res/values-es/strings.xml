@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="add">Añadir</string>
+    <string name="enter_text_title">Introduce un texto</string>
+</resources>

@@ -6,5 +6,6 @@
 
     <color name="back">#aa00ffff</color>
     <color name="text">#2f0046</color>
+    <color name="black">#000000</color>
 
 </resources>

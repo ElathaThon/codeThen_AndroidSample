@@ -6,8 +6,17 @@
 
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="10dp">
 
+
+
+    <EditText
+        android:id="@+id/input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_text_title"
+        />
 
     <Button
         android:id="@+id/button"
@@ -18,19 +27,6 @@
         />
 
 
-    <TextView
-        tools:text="pera"
-        android:id="@+id/text"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-
-        android:textSize="15sp"
-        android:textColor="@color/text"
-        android:background="@color/back"
-
-        android:gravity="center_horizontal"
-        />
 
 
 
